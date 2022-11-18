@@ -1,7 +1,7 @@
 # megamenu-js
-Last responsive megamenu you'll ever need
+ responsive megamenu  
 
-## huge thanks to Michele Maietta (https://github.com/doppiam) for all contribution in this project.
+##  Michele Maietta (https://github.com/doppiam)  
 
 
 ## Features
